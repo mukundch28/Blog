@@ -1,2 +1,2 @@
 # Blog
-This is my first attemot at starting a Blog.
+This is my first attempt at starting a Blog.
